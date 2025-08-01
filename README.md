@@ -19,14 +19,14 @@ GitHub: github.com/sayaneshome
 
 Code_Portfolio_sayaneshome1/
 ├── notebooks/
-│ ├── 01_Generative_AI_Medical_Imaging.ipynb
-│ ├── 03_Bulk_RNAseq_Analysis.ipynb
-│ ├── 04_SingleCell_RNAseq_Analysis.ipynb
-│ ├── 05_HiC_Data_Analysis.ipynb
-│ ├── 06_Molecular_Dynamics_Simulation.ipynb
-├── datasets/ # optional sample data
-├── images/ # visualizations/screenshots
-├── environment.yml # environment dependencies
+│   ├── 01_Generative_AI_Medical_Imaging.ipynb
+│   ├── 03_Bulk_RNAseq_Analysis.ipynb
+│   ├── 04_SingleCell_RNAseq_Analysis.ipynb
+│   ├── 05_HiC_Data_Analysis.ipynb
+│   ├── 06_Molecular_Dynamics_Simulation.ipynb
+├── datasets/          # optional sample data
+├── images/            # visualizations/screenshots
+├── environment.yml    # environment dependencies
 └── README.md
 
 
