@@ -1,4 +1,4 @@
-Code Portfolio
+Code Portfolio (Work in progress; will complete by Aug 3,2025)
 
 This repository highlights some of my example works in **AI/ML, Bioinformatics, and Computational Biology** through practical code examples. The projects cover **generative AI, predictive modeling, omics analysis, and structural bioinformatics**, reflecting my research contributions and technical expertise.
 
