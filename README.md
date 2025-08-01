@@ -24,9 +24,9 @@ Code_Portfolio_sayaneshome1/
 │   ├── 03_Bulk_RNAseq_Analysis.ipynb
 │   ├── 04_SingleCell_RNAseq_Analysis.ipynb
 │   ├── 05_HiC_Data_Analysis.ipynb
-│   ├── 06_Molecular_Dynamics_Simulation.ipynb
-│   ├── 07_ncRNA_Annotation.ipynb
-│   ├── 08_Protein_Function_Prediction.ipynb
+│   ├── 06_.ipynb
+│   ├── 07_.ipynb
+│   ├── 08_.ipynb
 ├── datasets/          # optional sample data
 ├── images/            # visualizations/screenshots
 ├── environment.yml    # environment dependencies
