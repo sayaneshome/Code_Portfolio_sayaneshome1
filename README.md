@@ -19,11 +19,11 @@ GitHub: github.com/sayaneshome
 ```
 Code_Portfolio_sayaneshome1/
 ├── notebooks/
-│   ├── 01_Generative_AI_Medical_Imaging.ipynb
-│   ├── 02_EHR_Predictive_Modeling.ipynb
-│   ├── 03_Bulk_RNAseq_Analysis.ipynb
-│   ├── 04_SingleCell_RNAseq_Analysis.ipynb
-│   ├── 05_HiC_Data_Analysis.ipynb
+│   ├── 01_Ging.ipynb
+│   ├── 02_g.ipynb
+│   ├── 03_.ipynb
+│   ├── 04_s.ipynb
+│   ├── 05_H.ipynb
 │   ├── 06_.ipynb
 │   ├── 07_.ipynb
 │   ├── 08_.ipynb
