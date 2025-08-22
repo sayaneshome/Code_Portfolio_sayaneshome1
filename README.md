@@ -1,4 +1,4 @@
-Code Portfolio (Work in progress; will complete by Aug 3,2025)
+Code Portfolio (Work in progress)
 
 This repository highlights some of my example works in **AI/ML, Bioinformatics, and Computational Biology** through practical code examples. The projects cover **generative AI, predictive modeling, omics analysis, and structural bioinformatics**, reflecting my research contributions and technical expertise.
 
@@ -38,7 +38,7 @@ Code_Portfolio_sayaneshome1/
 ## 🔍 Overview of Projects
 
 ### **1. Generative AI for Medical Imaging**
-- **Notebook:** `01_Generative_AI_Medical_Imaging.ipynb`
+- **Notebook:** <will be added>.
 - **Highlights:**  
   - Text-to-image synthesis using diffusion models for neonatal X-rays.  
   - BLIP-2 integration for image captioning.  
@@ -68,7 +68,7 @@ Code_Portfolio_sayaneshome1/
 ---
 
 ### **4. Single-cell RNA-seq Analysis**
-- **Notebook:** `04_SingleCell_RNAseq_Analysis.ipynb`
+- **Notebook:** `Sc-RNAseq_example dataset IKKB`
 - **Highlights:**  
   - Preprocessing and normalization of scRNA-seq.  
   - Dimensionality reduction (PCA, UMAP), clustering.  
@@ -84,32 +84,13 @@ Code_Portfolio_sayaneshome1/
   - Compare WT vs KO samples.  
 - **Tech Stack:** Python, Cooltools.
 
----
-
-### **6. Molecular Dynamics Simulation**
-- **Notebook:** `06_Molecular_Dynamics_Simulation.ipynb`
+### **5. Chatbot using LLMs providing details about clinical trials in a conversational manner
+Data Analysis**
+- **Notebook:** `05_HiC_Data_Analysis.ipynb`
 - **Highlights:**  
-  - Simulate membrane transport proteins.  
-  - Analyze transport pathways and flexibility.  
-- **Tech Stack:** NAMD, VMD, Python.
-
----
-
-### **7. Non-coding RNA Annotation**
-- **Notebook:** `07_ncRNA_Annotation.ipynb`
-- **Highlights:**  
-  - Pipeline for ncRNA identification and annotation from RNA-seq data.  
-- **Tech Stack:** Python, Bioconductor.
-
----
-
-### **8. Protein Function Prediction**
-- **Notebook:** `08_Protein_Function_Prediction.ipynb`
-- **Highlights:**  
-  - Predict protein function using ML based on sequence and structure features.  
-- **Tech Stack:** Python, scikit-learn, Biopython.
-
----
+  - Analyze `.cool` and `.mcool` Hi-C files for chromatin structure.  
+  - Compare WT vs KO samples.  
+- **Tech Stack:** Python, OpenAI-LLM, Streamlit.
 
 ## ⚙️ Setup
 ```bash
