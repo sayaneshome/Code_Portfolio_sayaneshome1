@@ -1,6 +1,6 @@
 Code Portfolio
 
-This repository highlights some of my example works in **AI/ML, Bioinformatics, and Computational Biology** through practical code examples. The projects cover **data analysis,web generative AI, predictive modeling, omics analysis, and structural bioinformatics**, reflecting my research contributions and technical expertise.
+This repository highlights some of my example works in **AI/ML, Bioinformatics, and Computational Biology** through practical code examples. The projects cover **data analysis, web generative AI, predictive modeling, omics analysis, and structural bioinformatics**, reflecting my research contributions and technical expertise.
 
 ---
 
@@ -18,10 +18,10 @@ GitHub: github.com/sayaneshome
 ```
 Code_Portfolio_sayaneshome1/
 ├── notebooks/
-│   ├── Notebook01.ipynb -- contains Single-cell RNA seq analysis of downstream analysis of counts generated from 10x cellranger using Scanpy.
-│   ├── Notebook02.ipynb -- contains Single-cell RNA seq analysis particularly RNA velocity,pseudo-velocity computation etc.
-│   ├── Notebook03.ipynb -- contains Bulk-RNA seq analysis, particularly focusing on differential expression analysis based on two genotypes/treatments and interaction terms ,and additional downstream analysis
-│   ├── Notebook04.ipynb -- contains Hi-C analysis, which helps find TADs,interaction loops specially comparing between wild-type/knockout samples.
+│   ├── Notebook01.ipynb -- Single-cell RNA seq analysis of downstream analysis of counts generated from 10x cellranger using Scanpy.
+│   ├── Notebook02.ipynb -- Single-cell RNA seq analysis particularly RNA velocity,pseudo-velocity computation etc.
+│   ├── Notebook03.ipynb -- Bulk-RNA seq analysis, particularly focusing on differential expression analysis based on two genotypes/treatments and interaction terms ,and additional downstream analysis
+│   ├── Notebook04.ipynb -- Hi-C analysis, which helps find TADs,interaction loops specially comparing between wild-type/knockout samples.
 │   ├── Notebook05.ipynb
 │   ├── 06_.ipynb
 │   ├── 07_.ipynb
