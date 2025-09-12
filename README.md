@@ -1,11 +1,11 @@
 Code Portfolio
 
-This repository highlights some of my example works in **AI/ML, Bioinformatics, and Computational Biology** through practical code examples. The projects cover **data analysis, web generative AI, predictive modeling, omics analysis, and structural bioinformatics**, reflecting my research contributions and technical expertise.
+This repository highlights some of my example works in **Bioinformatics, Data Science, AI/ML, and Computational Biology** through practical code examples. The projects cover some example code snippets, reflecting my research contributions and technical expertise.
 
 ---
 
 👩‍💻 About Me
-Sayane Shome – Computational researcher passionate about AI in healthcare and life sciences.
+Sayane Shome – Computational researcher passionate about healthcare and life sciences.
 
 Website: www.sayaneshome1.com
 
