@@ -30,7 +30,6 @@ Code_Portfolio_sayaneshome1/
 │   ├── 
 ├── Vibecoding building agentic-AI application for eldercare [Link : https://elder-ease-sshome.replit.app/]      
 ├── Web-application showing neonatal lab measurements from manuscript [Link : https://neonatesmeasures2025.streamlit.app/]          #
-├── environment.yml    # environment dependencies
 └── README.md
 ```
 
