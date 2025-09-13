@@ -27,7 +27,7 @@ Code_Portfolio_sayaneshome1/
 │   ├── Notebook05.ipynb -- Correlation network creation from lipidomics and single-cell transcriptomics data from de-identified samples.
 │   ├── Notebook06.ipynb -- Diffusion model(SD) implementation and plotting metrics.
 │   ├── Notebook07.ipynb -- Small language model and image-to-text generation model implementation and comparative metrics.
-│   ├── 
+│   ├── Notebook08.ipynb -- ML analysis on biological dataset
 ├── Vibecoding building agentic-AI application for eldercare [Link : https://elder-ease-sshome.replit.app/]      
 ├── Web-application showing neonatal lab measurements from manuscript [Link : https://neonatesmeasures2025.streamlit.app/]          #
 └── README.md
