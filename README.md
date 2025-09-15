@@ -29,7 +29,7 @@ Code_Portfolio_sayaneshome1/
 │   ├── Notebook07.ipynb -- Small language model and image-to-text generation model implementation and comparative metrics.
 │   ├── Notebook08.ipynb -- ML analysis on biological dataset
 ├── [Link : https://elder-ease-sshome.replit.app/]  : Vibecoding building agentic-AI application for eldercare     
-├──  [Link : https://neonatesmeasures2025.streamlit.app/] : Web-application showing neonatal lab measurements from manuscript 
+├── [Link : https://neonatesmeasures2025.streamlit.app/] : Web-application showing neonatal lab measurements from manuscript 
 └── README.md
 ```
 
