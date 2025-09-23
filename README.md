@@ -15,7 +15,7 @@ LinkedIn: linkedin.com/in/sayaneshome
 
 GitHub: github.com/sayaneshome
 
-#In progress : Will update most of codes here by September 16,2025
+
 
 
 ## 📂 Repository Structure
