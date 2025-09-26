@@ -31,7 +31,7 @@ Code_Portfolio_sayaneshome1/
 │   ├── Notebook07.ipynb -- ML analysis on biological dataset
 ├── [Link : https://elder-ease-sshome.replit.app/]  : Vibecoding building agentic-AI application for eldercare     
 ├── [Link: https://neonatesmeasures2025.streamlit.app/]: Web-application showing neonatal lab measurements from the manuscript
-├── Currently working as team lead on MitoOmics-GPU — a Cross-Modal “Mito Health Index” (MHI) from EV/MDV Proteomics + Single-Cell for SCverse+Nvidia Multiomics Hackathon till September 24, 2025; will update the code and package here.
+├── MitoOmics-GPU — a Cross-Modal “Mito Health Index” (MHI) from EV/MDV Proteomics + Single-Cell for SCverse+Nvidia Multiomics Hackathon : https://github.com/sayaneshome/MitoOmics-GPU/tree/main
 └── README.md
 ```
 
