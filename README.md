@@ -31,7 +31,7 @@ Code_Portfolio_sayaneshome1/
 │   ├── Notebook07.ipynb -- ML analysis on biological dataset
 ├── [Link : https://elder-ease-sshome.replit.app/]  : Vibecoding building agentic-AI application for eldercare     
 ├── [Link: https://neonatesmeasures2025.streamlit.app/]: Web-application showing neonatal lab measurements from the manuscript
-├── MitoOmics-GPU : https://github.com/sayaneshome/MitoOmics-GPU/tree/main
+├── MitoOmics-GPU (Nvidia-scverse Omics Hackathon application) : https://github.com/sayaneshome/MitoOmics-GPU/tree/main
 └── README.md
 ```
 
