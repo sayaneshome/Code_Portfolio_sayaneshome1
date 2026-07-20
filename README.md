@@ -9,7 +9,7 @@ This repository highlights some of my example works in **Bioinformatics, Data Sc
 
 Sayane Shome – Computational researcher passionate about healthcare and life sciences.
 
-Website: www.sayaneshome1.com
+
 
 LinkedIn: linkedin.com/in/sayaneshome
 
